@@ -9,7 +9,7 @@ public class Exam03_07 {
 		
 		for( ;num >0 ;num = num/ 10 ) {
 			int n = num % 10;
-			System.out.println(n);
+			
 			total +=n; 
 		}
 

@@ -9,6 +9,8 @@ public class ArrayExam4 {
 			//               => 0~4
 			int ran = (int) (Math.random() * 5) ; 
 			temp = numbers[0];
+			
+			
 			numbers[0]= numbers[ran];
 			numbers[0] = numbers[ran];
 		}

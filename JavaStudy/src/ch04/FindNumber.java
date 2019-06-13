@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class FindNumber {
 	public static void main(String[] args) {
 		int count = 0;
+
 		int random = (int) (Math.random() * 100 + 1); //0~99¾²±â ½È°í 1~100 ¾²°í ½Í.
 		Scanner scan = new Scanner(System.in); //Import: ³»°¡ ¾ø¾î¼­ ºô·Á¼­ ¿È.
 		while (true) {

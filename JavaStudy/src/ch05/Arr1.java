@@ -2,6 +2,8 @@ package ch05;
 
 public class Arr1 {
 	public static void main(String[] args) {
+		
+		int[] scores = new int[5];
 		int last = scores[ scores.length - 1];
 		
 		

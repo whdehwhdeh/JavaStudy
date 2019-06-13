@@ -4,6 +4,7 @@ public class ArrayExam3 {
 	public static void main(String[] args) {
 		int[] numbers = { 3, 2, 1, 7, 4 };
 
+		
 		int min = 0;
 
 		for (int i = 0; i < numbers.length; i++) {

@@ -11,3 +11,5 @@ public class Exam4_4_2 {
         System.out.println("각 숫자들의 합:" + total);
  }
 }
+	
+		

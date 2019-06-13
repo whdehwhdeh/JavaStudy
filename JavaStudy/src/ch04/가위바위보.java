@@ -7,7 +7,7 @@ public class 가위바위보 {
 		Scanner s = new Scanner(System.in);
 		boolean b=true;
 		
-		while() {
+		while(true) {
 			// 가위:0, 바위:1, 보:2
 			int 나 = s.nextInt();
 			

@@ -17,8 +17,10 @@ public class Baseball {
 		int baseball3 = number % 10;
 		int baseball2 = (number / 10) % 10;
 		int baseball1 = (number / 10 / 10) % 10;
-
-		Scanner s = new Scanner(System.in); 
+		
+		Scanner s = new Scanner(System.in);
+		
+		int inputNumber1 = s.nextInt();
  		int inputNumber2 = s.nextInt();
 		int inputNumber3 = s.nextInt();
 		System.out.println(inputNumber1);
